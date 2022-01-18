@@ -8,7 +8,7 @@ A very Simple website ✨ Follow Installation Steps
 ## Installation
 
 - Clone this repo using any method (https, ssh, gh cli)
-- Set the configuration file using the command cp .env.example .env
+- Set the configuration file (.env)
 - Install all required packages via composer. composer install
 ```sh
 composer install
