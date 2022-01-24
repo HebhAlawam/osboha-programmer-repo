@@ -17,3 +17,8 @@ Route::get('/', function () {
     return view('john-doe');
 });
 
+Route::get('basheer', function () {
+    return view('basheer');
+});
+
+
