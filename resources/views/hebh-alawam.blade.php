@@ -112,7 +112,7 @@
                         <a class="btn btn-general btn-blue" href="#" title="download resume" target="_blank"">Get Resume</a>
                 </div>
                 <div class=" col-md-6 text-center">
-                            <img src="{{asset('assets/image/profile/profile.png')}}" alt="Hebh Alawam" />
+                            <img src="{{asset('assets/image/profile/Hebh.jpg')}}" alt="Hebh Alawam" / style="height: 400px;">
                     </div>
                 </div>
                 <div id="progress-elements">
