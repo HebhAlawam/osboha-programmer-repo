@@ -43,7 +43,7 @@
             <div class="social-items">
                 <ul>
                     <li>
-                        <a class="hint--bottom" href="https://www.facebook.com" aria-label="Facebook" target="_blank">
+                        <a class="hint--bottom" href="https://www.facebook.com/basheer.faidi/" aria-label="Facebook" target="_blank">
                             <i class="fa fa-facebook"></i>
                         </a>
                     </li>
