@@ -5,7 +5,7 @@ $(window).on("load", function () {
     $.iMissYou({ title: "Hey ! ", favicon: { enabled: !1 } });
   }),
   $(window).on("load", function () {
-    new Typed("#home-profile-info", { strings: ["I'm Basheer Faidie...", "Web Developer... ", "UI and UX Designer! "], loop: !0, typeSpeed: 50, backSpeed: 30 });
+    new Typed("#home-profile-info", { strings: ["I'm Basheer Faidi...", "Web Developer... ", "UI and UX Designer! "], loop: !0, typeSpeed: 50, backSpeed: 30 });
   }),
   $(function () {
     $(".menu-toggle").click(function () {
