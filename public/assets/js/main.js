@@ -6,6 +6,7 @@ $(window).on("load", function () {
   }),
   $(window).on("load", function () {
     new Typed("#home-profile-info", { strings: ["I'm John Doe...", "Web Developer... ", "UI and UX Designer! "], loop: !0, typeSpeed: 50, backSpeed: 30 });
+   new Typed("#home-profile-info", { strings: ["I'm Rama AlHafez...", "Web Developer... "], loop: !0, typeSpeed: 50, backSpeed: 30 });
   }),
   $(function () {
     $(".menu-toggle").click(function () {
