@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('john-doe');
 });
 
-Route::get('basheer', function () {
+Route::get('basheer-profile', function () {
     return view('basheer');
 });
 
